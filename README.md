@@ -1,4 +1,4 @@
-A simple dashboard that takes static data from a JSON file and siplays:
+A simple dashboard that takes static data from a JSON file and displays:
 1. 4 widgets 
 2. Line graph for daily orders
 3. Table for Top 5 orders
